@@ -96,9 +96,9 @@ hr {
 }
 
 .images img {
-    top: 100px;
+    top: 109px;
     position: absolute;
-    right: 100px;
+    right: 109px;
     transform: translateY(-50%);
     transition: bottom 1s, left;
     width: 300px;
